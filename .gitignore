@@ -1,0 +1,12 @@
+# Build
+*.cmi
+*.cmo
+*.pdf
+*.rkt~
+main
+
+# Submit Files
+*.zip
+
+# MacOS
+.DS_Store
